@@ -1,7 +1,7 @@
-  site: 武汉同学
-  title: 武汉同学
+  site: 种植牙配件
+  title: 种植牙配件
   description: >-
-    一个喜欢折腾的数码爱好者
+    登腾奥齿泰诺贝尔ITI仕诺康DIO百康ICX美格真INNO雅定等等
 
   # family=Noto+Sans+TC:wght@100;300&family=Noto+Sans:wght@100;200;300;400;500&family=Noto+Serif+SC:wght@300;400;500&family=Noto+Serif:wght@400;700&family=Play:wght@400;700
   # Fira+Code:wght@400;500;700 
@@ -12,18 +12,18 @@
   data-theme: dark # default theme "dark" | "light"
 
   author:
-  name: 武汉同学
-  bio: 一个喜欢折腾的数码爱好者，学习笔记分享。
+  name: 种植牙配件
+  bio: 登腾奥齿泰诺贝尔ITI仕诺康DIO百康ICX美格真INNO雅定等等
   userpicture: 
   username: 武汉同学 # general username
-  github: CarlCit # github username
-  twitter: carlsonglin # twitter username
-  email: me@songlin.me
+  github:  # github username
+  twitter:  # twitter username
+  email: 
 
 # URL settings
-url: "songlin.me" #
+url: "den.songlin.me" #
 baseurl: # leave blank if not wishd
-permalink: "songlin.me/"
+permalink: "den.songlin.me/"
 permalink: pretty 
 
 
