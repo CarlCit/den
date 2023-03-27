@@ -417,6 +417,10 @@ figcaption {
 .bio {
 	margin-bottom: 5rem;
 }
+.bio img {
+  float: left; /* 图片向左浮动 */
+  margin-right: 17px; /* 图片的右外边距，设置为文字宽度加上一定距离 */
+}
 
 ::selection {
 background-color: #fffba0;
