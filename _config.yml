@@ -21,9 +21,9 @@
   email: 
 
 # URL settings
-url: "aihi.one" #
+url: "https://aihi.one" #
 baseurl: # leave blank if not wishd
-permalink: "aihi.one/"
+permalink: "https://aihi.one"
 permalink: pretty 
 
 
